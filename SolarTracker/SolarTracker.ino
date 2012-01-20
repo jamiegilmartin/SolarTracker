@@ -10,7 +10,7 @@
 * The idea for this project came from http://hilaroad.com/
 * & their video http://www.youtube.com/embed/4abMkyPoGcs.
 * 
-* Here's my write up: http://jamiegilmartin.com/solarTracker.html
+* Here's my write up: http://jamiegilmartin.com/ee/solarTracker.shtml
 * 
 * 5V
 * pin D9 = horizontal servo
